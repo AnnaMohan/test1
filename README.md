@@ -7,3 +7,4 @@ sdjflksdjflkjsdf
 hey im adding new line
 hey this is new one
 Hare Krishna
+lets understand git pull vs git fetch.
